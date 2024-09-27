@@ -1,0 +1,10 @@
+Profile: myCoursePatients
+Parent: Patient
+Id: 453
+Title: "My Profile"
+Description: "My course description"
+* gender 0..1
+* name 1..*
+  * given 1..3
+  * family 1..1
+* birthDate 1..1
