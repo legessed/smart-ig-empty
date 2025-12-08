@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+.DS_Store
+Thumbs.db
+/fsh-generated
+/input-cache
+/output
+/temp
+/template
+=======
 # Temporary folders #
 #####################
 temp
@@ -47,3 +56,4 @@ auto-save-list
 tramp
 .\#*
 .swp
+>>>>>>> 34c7eb2c973e03b7dba2bfe19cce11213f4dfac0
