@@ -11,6 +11,7 @@
 This is an empty framework, to be used to create SMART Implementation Guides.
 
 * http://build.fhir.org/ig/legessed/smart-ig-empty
+* http://legessed.github.io/smart-ig-empty
 
 
 ## Changes and feedback
