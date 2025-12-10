@@ -10,7 +10,7 @@
 # Dr. Girma
 This is an empty framework, to be used to create SMART Implementation Guides.
 
-Please see these [instructions](https://smart.who.int/ig-starter-kit/ig_setup.html#github-setup)
+http://build.fhir.org/ig/legessed/smart-ig-empty
 
 
 ## Changes and feedback
